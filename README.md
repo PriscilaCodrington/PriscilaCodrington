@@ -1,4 +1,5 @@
 ### Hi there, I'm Priscila, future Frontend Developer 👋
+- 🌱 I’m currently learning about HTML, CSS, JavaScript, BootStrap and ReactJS
 
 ![Artboard 1](https://user-images.githubusercontent.com/118768738/207099904-bc2da750-8a9b-476c-88d2-e16b3ee4c8ab.png)
 
